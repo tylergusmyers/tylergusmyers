@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tylergusmyers
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning about the FinTech space and writing smart contracts
+- 👀 I’m interested in React.js development
+- 🌱 I’m currently writing React for Cannabis software
 - 📫 You can reach me at tylergusmyers@gmail.com
 
 <!---
